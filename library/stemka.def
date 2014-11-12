@@ -1,0 +1,7 @@
+EXPORTS
+  GetRusTables
+  GetRusVowels
+  GetUkrTables
+  GetUkrVowels
+  GetPubStemLenStr
+  GetPubStemLenBuf
