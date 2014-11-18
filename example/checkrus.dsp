@@ -4,6 +4,9 @@
 
 # TARGTYPE "Win32 (x86) Console Application" 0x0103
 
+BLABLABLA
+
+
 CFG=checkrus - Win32 Debug
 !MESSAGE This is not a valid makefile. To build this project using NMAKE,
 !MESSAGE use the Export Makefile command and run
